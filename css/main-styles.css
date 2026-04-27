@@ -293,6 +293,7 @@ body._lock {
   color: #ebc97c;
   font-size: 30px;
   font-weight: 700;
+  letter-spacing: 0.1875rem;
 }
 .header-card__position {
   color: #938871;
