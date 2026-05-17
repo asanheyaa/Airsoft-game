@@ -526,6 +526,9 @@ h1, h2, h3, h4, h5, h6 {
 .details__body {
   height: 100%;
 }
+.details__body .stats {
+  padding: 0;
+}
 .details__inventory {
   margin-bottom: 3px;
 }
